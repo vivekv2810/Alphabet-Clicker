@@ -10,7 +10,7 @@
 - [How to Play](#how-to-play)
 - [Customization](#customization)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
+- [Result](#result)
 - [License](#license)
 
 ## Demo
